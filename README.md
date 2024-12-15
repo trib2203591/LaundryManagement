@@ -1,2 +1,4 @@
-- name: Contribute List
-uses: akhilmhdh/contributors-readme-action@v2.3.10
+run with sql server,
+change username, password, database in database.java
+
+open this project with net bean and run
